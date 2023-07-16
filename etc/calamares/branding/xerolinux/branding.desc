@@ -41,4 +41,4 @@ slideshowAPI: 1
 style:
    SidebarBackground:    "#31313a"
    SidebarText:          "#FFFFFF"
-   SidebarBackgroundCurrent: "#888fe2"
+   SidebarBackgroundCurrent: "#846a82"
