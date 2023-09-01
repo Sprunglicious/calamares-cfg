@@ -18,8 +18,8 @@ import QtQuick.Window 2.3
 ApplicationWindow {
     id: about
     visible: true
-    width: 760
-    height: 400
+    width: 800
+    height: 450
     title: qsTr("About Calamares")
 
     property var appName: "Calamares"
@@ -36,14 +36,14 @@ ApplicationWindow {
 
 
             Rectangle {
-                width: 560
-                height: 250
+                width: 600
+                height: 268
                 radius: 10
                 border.width: 0
 
                 Text {
                     width: 400
-                    height: 250
+                    height: 167
                     anchors.centerIn: parent
                     text: qsTr("<h1>%1</h1><br/>
                         <strong>%2<br/>
